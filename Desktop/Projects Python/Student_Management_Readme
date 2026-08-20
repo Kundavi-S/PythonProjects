@@ -1,0 +1,34 @@
+Student Report Card System
+
+A simple Python program to manage student marks and generate report cards.
+
+Features
+Enter student name and roll number
+Enter marks for 5 subjects
+Calculate total marks
+Calculate percentage
+Assign grades
+Display PASS or FAIL result
+Search for a student using roll number
+Display subject-wise marks
+Calculate the average marks of all students for each subject
+Technologies Used
+Python
+How It Works
+
+The program first asks for the number of students. For each student, it collects their name, roll number, and marks for 5 subjects.
+
+It then calculates the student's total, percentage, grade, and result.
+
+The program also provides subject-wise analytics by calculating the average marks obtained by all students in each subject.
+
+Example
+Subject 1 Average: 78.33
+Subject 2 Average: 82.0
+Subject 3 Average: 75.67
+Subject 4 Average: 85.0
+Subject 5 Average: 80.33
+How to Run
+python student_report.py
+
+This project is created for practicing Python loops, dictionaries, lists, conditions, and basic data processing.
